@@ -1,0 +1,6 @@
+name: tnp-frontend-testing
+author: The Neon Project
+description: Frontend
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
