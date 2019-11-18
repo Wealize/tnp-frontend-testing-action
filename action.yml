@@ -1,5 +1,8 @@
 name: tnp-frontend-testing
 author: The Neon Project
+branding:
+  icon: bar-chart-2
+  color: red
 description: Frontend
 runs:
   using: 'docker'
